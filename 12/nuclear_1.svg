@@ -1,0 +1,19 @@
+<svg id="nuclear_1.svg" xmlns="http://www.w3.org/2000/svg" width="440" height="440" viewBox="0 0 440 440">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 20px;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="楕円形_1" data-name="楕円形 1" class="cls-1" cx="220" cy="220" r="210"/>
+  <path id="線_1" data-name="線 1" class="cls-2" d="M248,42l-2.024,420Z" transform="translate(-29 -32)"/>
+  <path id="線_1-2" data-name="線 1" class="cls-2" d="M397,401L241.985,259.005Z" transform="translate(-29 -32)"/>
+  <path id="線_1-3" data-name="線 1" class="cls-2" d="M98,400l155.017-141.99Z" transform="translate(-29 -32)"/>
+</svg>
